@@ -1,21 +1,21 @@
 {
   "places":[{
     "id":1,
-    "placeName":"Galerias Escalon",
+    "kiosko":"Galerias Escalon",
     "images":[
       "https://s18.postimg.org/7h0vx07e1/IMG_1857.jpg",
       "https://s15.postimg.org/kaqm87fe3/IMG_0103.jpg"
     ],
-    "peligrosidad": 3,
+    "nivel": 3,
     "municipio": "San Salvador"
   },
   {
     "id":2,
-    "placeName":"Las Cascadas",
+    "kiosko":"Las Cascadas",
     "images":[
     "https://s18.postimg.org/7h0vx07e1/IMG_1857.jpg"
     ],
-        "peligrosidad": 2,
+        "nivel": 2,
     "municipio": "Santa Tecla"
   }
 ]
